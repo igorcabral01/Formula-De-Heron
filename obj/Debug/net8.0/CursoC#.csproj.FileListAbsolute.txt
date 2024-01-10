@@ -1,0 +1,14 @@
+C:\ProjetosUdemy\CursoC#\bin\Debug\net8.0\CursoC#.exe
+C:\ProjetosUdemy\CursoC#\bin\Debug\net8.0\CursoC#.deps.json
+C:\ProjetosUdemy\CursoC#\bin\Debug\net8.0\CursoC#.runtimeconfig.json
+C:\ProjetosUdemy\CursoC#\bin\Debug\net8.0\CursoC#.dll
+C:\ProjetosUdemy\CursoC#\bin\Debug\net8.0\CursoC#.pdb
+C:\ProjetosUdemy\CursoC#\obj\Debug\net8.0\CursoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosUdemy\CursoC#\obj\Debug\net8.0\CursoC#.AssemblyInfoInputs.cache
+C:\ProjetosUdemy\CursoC#\obj\Debug\net8.0\CursoC#.AssemblyInfo.cs
+C:\ProjetosUdemy\CursoC#\obj\Debug\net8.0\CursoC#.csproj.CoreCompileInputs.cache
+C:\ProjetosUdemy\CursoC#\obj\Debug\net8.0\CursoC#.dll
+C:\ProjetosUdemy\CursoC#\obj\Debug\net8.0\refint\CursoC#.dll
+C:\ProjetosUdemy\CursoC#\obj\Debug\net8.0\CursoC#.pdb
+C:\ProjetosUdemy\CursoC#\obj\Debug\net8.0\CursoC#.genruntimeconfig.cache
+C:\ProjetosUdemy\CursoC#\obj\Debug\net8.0\ref\CursoC#.dll
